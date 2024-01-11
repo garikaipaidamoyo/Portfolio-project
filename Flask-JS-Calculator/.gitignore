@@ -1,0 +1,89 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local development configuration
+instance/
+
+# Environment variable file
+.env
+
+# Web server logs
+*.log
+
+# Database files
+db.sqlite
+*.db
+
+# Virtual environment
+venv/
+env/
+
+# Dependency directories
+lib/
+libs/
+
+# Compiled Python files
+*.pyc
+
+# Python distribution/
+__pycache__/
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# VS Code specific files
+.vscode/
+
+# PyCharm specific files
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Compiled bytecode
+*.pyc
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg/
+*.egg
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# Virtualenv
+venv/
+ENV/
+
+# Node.js
+node_modules/
+
+# Docker
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Testing database
+test.db
+.flaskenv
